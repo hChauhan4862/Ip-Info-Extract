@@ -1,0 +1,1 @@
+{"id":"8f2a19df-0816-4396-b576-bb4023cd5bb6","space":29194,"runtime":"python3.9","name":"ip_info","path":"pqer5n","project":"d0djj2vu","account":"144798365827","region":"ap-south-1","deps":["deta","fastapi","uvicorn","requests"],"envs":null,"public":true,"log_level":"debug","cron":""}
